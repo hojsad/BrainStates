@@ -1,0 +1,74 @@
+---
+title: "Brain States and Dynamic Connectivities"
+author: "Hojjatollah Sadeqi"
+#affiliation: "University of Florida"
+format:
+  revealjs:
+    controls: true
+    progress: true
+    logo: "logo.png"
+    footer: "University of Florida"
+    chalkboard:
+      boardmarker-width: 5
+      buttons: true
+---
+
+## Brain Networks
+
+![](slide1.svg)
+
+
+## Fractional Occupancy
+![](Paper_FO.png)
+LBD participants exhibited significantly higher FO in State 2 compared to both NC and AD suggesting it as a potential signature of LBD-specific neural dynamics. 
+
+## Power Difference
+![](Paper_LBD_NC_power_diff_fdr.png) 
+
+## LBD Subjects
+
+LBD subjects showed increased power in lower frequency bands (delta and theta) and reduced power in higher frequencies (alpha and beta) compared to AD, particularly in states 2 and 6.
+
+##
+
+- *Increases:* the left medial temporal cortex, left and right lateral temporal cortex, the left anterior cingulate and medial prefrontal cortex, right temporal-parieto-occipital junction, right inferior parietal cortex, and the left primary and early visual cortex.
+- *Decreases:* the right and left posterior cingulate cortex, cingulate motor areas, primary and early visual cortex, dorsal stream visual cortex, inferior somatosensory and motor cortex.
+
+## Power spectral densities
+
+![](Paper_PSD.png) 
+
+A pronounced spectral slowing is evident in LBD, particularly in States 2 and 6.
+
+
+## TBR in LBD vs NC
+
+![](TBR_LBD_NC.png) 
+
+TBR elevations were observed in regions including the posterior and anterior cingulate cortex, medial prefrontal cortex, inferior parietal cortex, intraparietal sulcus, and posterior parietal gyrus.
+ 
+
+## TBR in  AD vs NC
+
+![](TBR_AD_NC.png) 
+
+TBR increases in AD compared to NC, particularly in the left primary and early visual cortices in States 2 and 3. 
+
+## Cognitive Fluctuations and Neural Oscillatory Power
+
+
+![](Paper_LBD_CAF_filtered.png) 
+ 
+## CAF scores
+
+**CAF scores** showed consistent positive correlations with low-frequency activity (delta and theta) and negative correlations with higher-frequency bands (alpha and beta), particularly in States 2 and 6.
+
+## CAF Correlations
+
+- In the **occipital cortex**, significant positive correlations were observed in the right primary and early visual cortex and the left ventral stream visual cortex. In contrast, the left primary and early visual cortex showed negative correlations in theta and alpha .
+- In the **anterior cingulate and medial prefrontal cortex (ACC/MPFC)**, CAF positively correlated with theta power in both hemispheres and with delta power in the right hemisphere.
+- In the **lateral temporal cortex** during State 6, alpha power negatively correlated with CAF.
+
+
+
+

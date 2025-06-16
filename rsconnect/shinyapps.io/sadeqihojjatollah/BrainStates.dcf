@@ -1,0 +1,12 @@
+name: BrainStates
+title: BrainStates
+username: sadeqihojjatollah
+account: sadeqihojjatollah
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14941029
+bundleId:
+url: https://sadeqihojjatollah.shinyapps.io/BrainStates/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
