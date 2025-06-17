@@ -14,8 +14,7 @@ format:
 ---
 
 ## Brain Networks
-
-![](slide1.png)
+![](net.png)
 
 
 ## Fractional Occupancy
